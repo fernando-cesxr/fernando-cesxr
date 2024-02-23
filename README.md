@@ -17,7 +17,7 @@
 
 <div id="social-medias">
   <h2>Learning &#128214;</h2>
-   <img height="60"src="https://github.gallerycdn.vsassets.io/extensions/github/vscode-github-actions/0.26.2/1694016984133/Microsoft.VisualStudio.Services.Icons.Default" />
+   <img height="60"src="https://miro.medium.com/v2/resize:fit:875/1*YcFmahlLvOPyjfNtw1GkbQ.png" />
 </div>
 
 

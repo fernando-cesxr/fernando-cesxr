@@ -17,7 +17,7 @@
 
 <div id="social-medias">
   <h2>Learning &#128214;</h2>
-   <img height="60"src="https://miro.medium.com/v2/resize:fit:875/1*YcFmahlLvOPyjfNtw1GkbQ.png" />
+   <img height="60"src="https://cdn.discordapp.com/attachments/697523671929061439/1210718774018310205/Untitled-removebg-preview1.png?ex=65eb94b9&is=65d91fb9&hm=cfc02be136bb63473c01aff92acd0d2e393a45163edb4421171517b3e20de2b2&" />
 </div>
 
 

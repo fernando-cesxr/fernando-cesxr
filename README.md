@@ -12,12 +12,11 @@
    <img height="60"src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" /> 
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
    <img height="60"src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/08/com031.jpg"/>
-   <img height="60"src="https://cdn.jsdelivr.net/npm/java@0.14.0/index.min.js" />
 </div>
 
 <div id="social-medias">
   <h2>Learning &#128214;</h2>
-   <img height="60"src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg](https://miro.medium.com/v2/resize:fit:1075/0*UxnbDjb0UDNlZIPl.png)" />
+   <img height="60"src="https://miro.medium.com/v2/resize:fit:1075/0*UxnbDjb0UDNlZIPl.png" />
 </div>
 
 

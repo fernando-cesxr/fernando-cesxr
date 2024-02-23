@@ -12,6 +12,7 @@
    <img height="60"src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" /> 
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
    <img height="60"src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/08/com031.jpg"/>
+   <img height="60"src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png"/>
 </div>
 
 <div id="social-medias">

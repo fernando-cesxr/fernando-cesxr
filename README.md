@@ -23,7 +23,7 @@
 <div id="interested">
   <h2>Interested &#128064;</h2>
   <img height="60"src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png" />
-  <img height="60"src="https://e7.pngegg.com/pngimages/630/547/png-clipart-kafka-vertical-logo-tech-companies-thumbnail.png" />
+  <img height="60"src="blob:null/72bba1f2-27ac-4638-b355-126cd5c94aa6" />
 </div>
 
 

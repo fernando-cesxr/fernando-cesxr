@@ -17,7 +17,8 @@
 
 <div id="social-medias">
   <h2>Learning &#128214;</h2>
-   <img height="60"src="https://cdn.discordapp.com/attachments/697523671929061439/1210718774018310205/Untitled-removebg-preview1.png?ex=65eb94b9&is=65d91fb9&hm=cfc02be136bb63473c01aff92acd0d2e393a45163edb4421171517b3e20de2b2&" />
+   <img height="60"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodegym.cc%2Fpt%2Fgroups%2Fposts%2Fpt.191.teste-de-unidade-em-java-com-junit&psig=AOvVaw1fICUdk6V2r1MLF5VYr8sv&ust=1718291696280000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCBmLqt1oYDFQAAAAAdAAAAABAE" />
+  
 </div>
 
 <div id="interested">

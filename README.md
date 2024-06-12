@@ -23,8 +23,7 @@
 
 <div id="interested">
   <h2>Interested &#128064;</h2>
-  <img height="60"src="https://cdn.discordapp.com/attachments/1211129286849724427/1211129595819069470/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout-removebg-preview.png?ex=65ed1355&is=65da9e55&hm=8bcb9064461679efd2dd72f2c937aea806f539856254f37a5d77f3c2611d4505&" />
-  <img height="60"src="https://cdn.discordapp.com/attachments/1211129286849724427/1211129429590548620/canvas.png?ex=65ed132d&is=65da9e2d&hm=a0d5c8a9b404b6a4a9babc71dc49f62d9c769c2e47c918771396efcfc3f3d187&" />
+  <img height="60"src="https://simpleicons.org/icons/githubactions.svg" />
 </div>
 
 

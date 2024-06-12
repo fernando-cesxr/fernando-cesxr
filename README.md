@@ -17,7 +17,7 @@
 
 <div id="social-medias">
   <h2>Learning &#128214;</h2>
-  <img height="60" src="https://simpleicons.org/icons/junit5.svg"/>
+  <img height="60" src="https://junit.org/junit5/assets/img/junit5-logo.png"/> 
   
 </div>
 

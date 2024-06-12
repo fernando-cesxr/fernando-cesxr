@@ -23,7 +23,7 @@
 
 <div id="interested">
   <h2>Interested &#128064;</h2>
-  <img height="60"src="https://simpleicons.org/icons/githubactions.svg" />
+  <img height="60"src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" />
 </div>
 
 

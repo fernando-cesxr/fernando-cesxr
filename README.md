@@ -17,7 +17,7 @@
 
 <div id="social-medias">
   <h2>Learning &#128214;</h2>
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+  <img height="60" src="https://simpleicons.org/icons/junit5.svg"/>
   
 </div>
 

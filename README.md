@@ -10,13 +10,13 @@
    <h2 style="margin: 0 auto;">Main Skills &#128640;</h2>
    <img height="60"src="https://t.ctcdn.com.br/MYfGrDUp-tzO9435EXLy4piB1Jk=/0x220:900x727/640x360/smart/i544346.jpeg" /> 
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-   <img height="60"src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/08/com031.jpg"/>
-   <img height="60"src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png"/>
+   <img height="60"src="https://o2b.com.br/wp-content/uploads/2023/07/terraform-logo-1.png"/>
+   <img height="60"src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/3840px-Kubernetes_logo_without_workmark.svg.png"/>
 </div>
 
 <div id="social-medias">
   <h2>Learning &#128214;</h2>
-  <img height="60" src="https://junit.org/junit5/assets/img/junit5-logo.png"/> 
+  <img height="60" src="https://cdn.worldvectorlogo.com/logos/grafana.svg"/> 
   
 </div>
 
